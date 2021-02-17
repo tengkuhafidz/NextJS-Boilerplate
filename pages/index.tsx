@@ -4,12 +4,12 @@ export default function Home() {
   return (
     <div>
       <Head>
-        <title>Create Next App</title>
+        <title>NextJS Boilerplate</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
       <main>
-        <h1>Title</h1>
+        <h1>Hello World</h1>
       </main>
     </div>
   )
