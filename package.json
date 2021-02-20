@@ -13,7 +13,7 @@
 		"check-format": "yarn prettier --list-different",
 		"check-types": "tsc",
 		"validate": "npm-run-all --parallel check-types check-format lint test build",
-		"setup": "yarn intall && yarn validate"
+		"setup": "yarn install && yarn validate"
 	},
 	"dependencies": {
 		"identity-obj-proxy": "^3.0.0",
