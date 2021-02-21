@@ -9,9 +9,15 @@ This is a boilerplate for my NextJS projects.
 - React Testing Library, Cypress
 - ESLint, Prettier, Lint-staged, Husky
 
-## Getting Started
+## How to use
 
-First, run the development server:
+1. Clone this repo
+2. Update the `README.md` and `package.json` to reflect your app
+3. install dependencies with `yarn install`
+
+## How to run
+
+Run the development server:
 
 ```bash
 yarn dev
