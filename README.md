@@ -2,7 +2,7 @@
 
 This is a boilerplate for my NextJS projects.
 
-### Pre-configured With:
+**Pre-configured With:**
 
 - TailwindCSS
 - Typescript
